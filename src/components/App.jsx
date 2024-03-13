@@ -1,12 +1,15 @@
-import { Navbar, Home } from '.';
+import { Navbar, Home, Test } from '.';
 import './styles.css';
+import { countries } from './Data';
 function App() {
 
   return (
     <>
       <div className='main'>
         <Navbar />
-        <Home />
+        <div className='carousel'>
+            <Test images={countries} />
+        </div>
       </div>
     </>
   )

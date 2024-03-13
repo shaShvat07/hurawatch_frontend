@@ -1,0 +1,13 @@
+.home {
+    width: 100%;
+    /* height: fit-content; */
+    /* background-color: #f0f0f0; */
+    height: 80%;
+    /* background-image: radial-gradient(circle at center, transparent 60%, #303030 100%), url('https://www.seramarkoff.com/wp-content/uploads/2023/08/oppenheimer-full-movie-in-hd-leaked-online-christopher-nolans-biographical-thriller-faces-wrath-of-piracy-is-available-to-download-illegally-1.jpg'); */
+    background-image: url("https://www.seramarkoff.com/wp-content/uploads/2023/08/oppenheimer-full-movie-in-hd-leaked-online-christopher-nolans-biographical-thriller-faces-wrath-of-piracy-is-available-to-download-illegally-1.jpg");
+    background-size: cover;
+    background-clip: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: overlay;
+}

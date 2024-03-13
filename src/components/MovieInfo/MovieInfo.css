@@ -1,0 +1,7 @@
+.movie-title{
+    color: rgb(0, 255, 0);
+}
+
+.movie-info-list{
+    display: flex;
+}
