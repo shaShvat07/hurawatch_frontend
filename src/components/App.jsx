@@ -1,4 +1,4 @@
-import { Navbar, Home, Test } from '.';
+import { Navbar, Home, Test, MovieList, Footer, End } from '.';
 import './styles.css';
 import { countries } from './Data';
 function App() {
@@ -10,6 +10,12 @@ function App() {
         <div className='carousel'>
             <Test images={countries} />
         </div>
+        <MovieList />
+        <MovieList />
+        <MovieList />
+        <MovieList />
+        <Footer />
+        <End />
       </div>
     </>
   )

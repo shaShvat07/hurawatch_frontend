@@ -47,7 +47,7 @@ const Test = ({ images }) => {
                                     ? "carousel_card carousel_card-active"
                                     : "carousel_card"
                             }
-                        >
+                        >      
                             <img className="card_image" src={image.image} alt="" />
                             <div className="card_overlay">
                                 <h2 className="card_title">{image.title}</h2>

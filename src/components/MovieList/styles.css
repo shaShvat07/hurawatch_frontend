@@ -1,0 +1,12 @@
+.movie-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: fit-content;
+    margin-left: 20px;
+}
+
+.heading{
+    margin: 10px;
+    margin-left: 40px;
+}
